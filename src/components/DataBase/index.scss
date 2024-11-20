@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,500;1,700&display=swap');
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h1{
+        font-size: 1.3rem;
+        font-weight: 300;
+        text-transform: uppercase;
+    }
+}
+
+.data{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+
+    column-gap: 20px;
+    row-gap: 30px;
+
+    margin: 20px 30px;
+}
+
+
+.rowDataForm{
+    display: flex;
+    align-items: center;
+
+    margin-top: 20px;
+}

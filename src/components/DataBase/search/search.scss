@@ -1,0 +1,23 @@
+.Search{
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 20px;
+
+    input{
+        outline: 0;
+
+        border-bottom: 2px solid orangered;
+        border-left: none;
+        border-right: none;
+        border-top: none;
+
+        background: inherit;
+        color: orangered;
+
+        width: 100%;
+
+        padding: 5px 10px;
+
+        font-size: 1.2rem;
+    }
+}
