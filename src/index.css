@@ -4,6 +4,8 @@ body{
     color: white;
 }
 
+#App
+
 .App{
     display: flex;
     flex-direction: column;
