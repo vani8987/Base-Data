@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Base-Data.io/static/css/main.a0738ce6.css",
+    "main.js": "/Base-Data.io/static/js/main.52911239.js",
+    "index.html": "/Base-Data.io/index.html",
+    "main.a0738ce6.css.map": "/Base-Data.io/static/css/main.a0738ce6.css.map",
+    "main.52911239.js.map": "/Base-Data.io/static/js/main.52911239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0738ce6.css",
+    "static/js/main.52911239.js"
+  ]
+}
